@@ -1,5 +1,5 @@
-# Tcloak - Text Steganography CLI Tool
-**Tcloak** (*Text Cloak*) is a command-line tool for **text steganography** based on formatting methods such as **word-shift coding**, **line-shift coding**.
+# Tcloak - Text Steganography Tool
+**Tcloak** (*Text Cloak*) is a tool for **text steganography** based on formatting methods such as **word-shift coding**, **line-shift coding**.
 ## 🧰 Prerequisites
 - Java 17 or higher
 - **SBT** (Scala Build Tool)
