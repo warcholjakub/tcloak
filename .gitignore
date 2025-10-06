@@ -1,0 +1,37 @@
+
+# === Build artifacts and SBT output ===
+target/
+project/target/
+project/project/target/
+project/project/project/target/
+lib_managed/
+src_managed/
+dist/*
+*.class
+*.log
+.scala_dependencies
+.worksheet
+
+# === IDE and tool files ===
+.bsp/
+**/.bloop
+.metals/
+.vscode/
+.idea/
+.classpath
+.project
+.settings/
+metals.sbt
+
+# === Temporary and cache files ===
+.cache
+.history
+.cursor/
+local.*
+
+# === System files ===
+.DS_Store
+
+# === Other ===
+project/boot/
+project/plugins/project/
